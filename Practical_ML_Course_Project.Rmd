@@ -1,7 +1,7 @@
 ---
 title: "Predict activity quality from activity monitors"
-author: "Onur Akpolat"
-date: "24. January 2015"
+author: "prem"
+date: "20 october 20202"
 output:
   html_document:
     keep_md: yes
